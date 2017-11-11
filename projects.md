@@ -35,9 +35,10 @@
 
 # XOR Security
 * __Automated Incident Triage System__
-  * As Lead DevOps Engineer, planned, designed and built a secure deployment pipeline considerably lowering the time to deployment from 2+hours to under 5 minutes. Guided design team to build portable apps suited for multiple environments.  Oversee the constant improvement and maintenance of the deployment pipeline.
-  * Lead development and integration of Rule Execution Server leveraging JBoss Drools.
-  * Provide input to guide technical direction and architecture.
+  * As Lead DevOps Engineer, planned, designed and built a secure deployment pipeline considerably lowering the time to deployment from 2+ hours to under 5 minutes. Guided design team to build portable apps suited for multiple environments.  Oversee the constant improvement and maintenance of the deployment pipeline.
+  * As Lead Engineer, provide input to guide technical direction and architecture.
+  * Developed and integrated Rule Execution Server leveraging JBoss Drools.
+  * Contribute to ongoing Java development to a microservice oriented architecture using Spring Boot.
 
 * __Cyber Threat Intelligence Sharing Fabric – FLARE__
   * Lead the development of enhanced STIX/TAXII Java client to support near real time sharing of cyber threat intelligence.
